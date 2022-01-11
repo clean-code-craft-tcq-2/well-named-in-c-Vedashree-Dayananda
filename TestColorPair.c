@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
-#include "ColorPairDefines.h"
 #include "TestColorPair.h"
+#include "ColorPairDefines.h"
 #include "ColorPairInterpreter.h"
 
 void testNumberToPair(int pairNumber,
