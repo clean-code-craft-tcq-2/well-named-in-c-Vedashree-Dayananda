@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
 #include "ColorPairDefines.h"
-#include "TestColorPair.h"
 #include "ColorPairInterpreter.h"
 
 void ColorPairToString(const ColorPair* colorPair, char* buffer) {
