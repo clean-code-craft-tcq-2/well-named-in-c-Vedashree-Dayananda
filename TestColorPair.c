@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <assert.h>
+#include "ColorPairDefines.h"
+#include "TestColorPair.h"
+#include "ColorPairInterpreter.h"
+
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
     enum MinorColor expectedMinor)
